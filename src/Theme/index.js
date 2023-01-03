@@ -6,8 +6,7 @@ import { sm, med, lg, xl, twoXl } from '~/constants/breakpoints'
 
 export default function ThemeProvider({ children }) {
     const [darkMode] = useDarkModeManager()
-
-    return <StyledComponentsThemeProvider theme = { theme(darkMode) } > { children } < /StyledComponentsThemeProvider>
+    return <StyledComponentsThemeProvider theme={ theme(darkMode) }>{children}</StyledComponentsThemeProvider>
 }
 
 const theme = (darkMode) => ({
