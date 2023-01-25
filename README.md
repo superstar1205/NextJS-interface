@@ -11,6 +11,6 @@
 
 ## How to delpoy NextJS application
 
-*Contact me
+`Contact me`
 
 *Dont forget give me star and follow me :)
