@@ -13,4 +13,4 @@
 
 `Contact me`
 
-*Dont forget give me star and follow me :)
+*Dont forget give me star and follow me :)*
